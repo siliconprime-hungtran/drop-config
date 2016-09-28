@@ -1,7 +1,5 @@
 window._appConfig2 = 
 {
- envName : "LOCAL OOOO",
- 
  "universalLink": {
     "installLink": {
       "ios": "https://dashboard.buddybuild.com/download/ios?buildID=57eb834ce4ddb601001aca08&email=hungtran.it3@gmail.com&noNewTab=true",
