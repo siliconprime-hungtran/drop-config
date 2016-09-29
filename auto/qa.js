@@ -1,5 +1,6 @@
 window._appConfig2 = 
 {
+ "defaultDealerCode": "",
  "isShowOpenAppLink" : true,
  "universalLink": {
     "installLink": {
