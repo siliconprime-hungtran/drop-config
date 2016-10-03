@@ -1,5 +1,5 @@
 {
-  "IS_SHOW_OPEN_APP_LINK": true,
-	"UNIVERSALLINK_INSTALL_LINK_IOS": "https://dashboard.buddybuild.com/download/ios?buildID=57eb834ce4ddb601001aca08&email=hungtran.it3@gmail.com&noNewTab=true",
-	"UNIVERSALLINK_INSTALL_LINK_ANDROID": "https://dashboard.buddybuild.com/api/download/download-apk?buildID=57eb92e6f4de1d010098782a&application_variant=devDebug"
+  "UNIVERSALLINK_IS_SHOW_OPEN_APP_LINK": true,
+  "UNIVERSALLINK_INSTALL_LINK_IOS": "https://dashboard.buddybuild.com/download/ios?buildID=57eb834ce4ddb601001aca08&email=hungtran.it3@gmail.com&noNewTab=true",
+  "UNIVERSALLINK_INSTALL_LINK_ANDROID": "https://dashboard.buddybuild.com/api/download/download-apk?buildID=57eb92e6f4de1d010098782a&application_variant=devDebug"
 }
